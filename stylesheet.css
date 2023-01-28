@@ -9,6 +9,9 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+#hyper{
+    height: 100vh;
+}
 
 .header{
     display: flex;
@@ -34,6 +37,19 @@ h1{
     border-radius: 8px;
     border: 1px solid rgb(43, 30, 6);
     padding-right: 450px;
+}
+
+h3{
+    margin-top: 5px;
+}
+#anoda{
+    padding-left: 380px;
+}
+
+#repeat{
+    margin-top: 12px;
+    margin-bottom: 5px;
+    font-size: 16px;
 }
 
 #menu-bar{
